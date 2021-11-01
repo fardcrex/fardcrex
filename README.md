@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardcrex&show_icons=true&locale=en&layout=compact" alt="fardcrex" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardcrex&show_icons=true&locale=en" alt="fardcrex" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardcrex&" alt="fardcrex" /></p>
 
@@ -45,4 +45,6 @@
   <a href="https://2021.spaceappschallenge.org/challenges/statements/when-light-curves-throw-us-curve-balls/teams/keelhaul-labs/project" target="blank">  <img src="space_apps.png" alt="drawing" width="220"/></a>
 
 <p  align="left"><img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_1.jpg" alt="drawing" width="180"/> <img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_2.jpg" alt="drawing" width="180"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardcrex&show_icons=true&locale=en" alt="fardcrex" /></p>
 
