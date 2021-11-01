@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardcrex&label=Profile%20views&color=0e75b6&style=flat" alt="fardcrex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardcrex" alt="fardcrex" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fardcrex" target="blank"><img src="https://img.shields.io/twitter/follow/fardcrex?logo=twitter&style=for-the-badge" alt="fardcrex" /></a> </p>
 
-- 🔭 I’m currently working on [Dinamo](dinamo.app)
+- 🔭 I’m currently working on my project [Dinamo](dinamo.app)
 
 - 🌱 I’m currently learning **web 3.0**
 
-- 👯 I’m looking to collaborate on **Blockchain**
+- 👯 I’m looking to collaborate on **Blockchain** or **Flutter projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +24,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardcrex&show_icons=true&locale=en" alt="fardcrex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardcrex&" alt="fardcrex" /></p>
+
+<h2>My Projects</h2>
+
+<h4>Finalist with the <a href="https://github.com/Keelhaul-Labs-Team/light-curve-app" target="_blank">Light Curve Predictor project</a> on</h4>
+
+<img src="space_apps.png" alt="drawing" width="220"/>
 
 <p  align="left"><img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_1.jpg" alt="drawing" width="180"/> <img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_2.jpg" alt="drawing" width="180"/></p>
 
