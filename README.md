@@ -27,6 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardcrex&" alt="fardcrex" /></p>
 
-<p><img align="center" src="https://github.com/fardcrex/nuwecoin/raw/main/assets/capture_1.png" alt="fardcrex" /></p>
+<img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_1.jpg" alt="drawing" width="260"/>
+<img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_2.jpg" alt="drawing" width="260"/>
 
 
