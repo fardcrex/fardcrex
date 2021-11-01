@@ -38,5 +38,5 @@
 
 <a href="https://appgallery.huawei.com/app/C104634907" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
 
-<p  align="left"><img src="coin_view_1.jpg" alt="nuwe_coin" width="180"/> align="left"><img src="coin_view_2.jpg" alt="nuwe_coin" width="180"/> <img src="coin_view_3.jpg" alt="nuwe_coin" width="180"/></p>
+<p  align="left"><img src="coin_view_1.jpg" alt="nuwe_coin" width="180"/><img src="coin_view_2.jpg" alt="nuwe_coin" width="180"/> <img src="coin_view_3.jpg" alt="nuwe_coin" width="180"/></p>
 
