@@ -27,9 +27,9 @@
 
 <h2>My Projects</h2>
 
-<h4>Development of a simple crypto app <a href="https://github.com/fardcrex/nuwecoin" target="_blank">Light Curve Predictor project</a> on</h4>
+<h4>Development of Dinamo app y finalist on <a href="https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/101618451100197545?pageIndex=5&regionId=Latin%20America"> Huawei HMS App Innovation Contest </a> </h4>
 
-<a href="https://appgallery.huawei.com/app/C104634907" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
+<a href="https://appgallery.huawei.com/app/C104640557" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
 
 <p  align="left"><img src="dina_view_1.jpg" alt="dinamo app" width="180"/><img src="dina_view_2.jpg" alt="dinamo app" width="180"/> <img src="dina_view_3.jpg" alt="dinamo app" width="180"/> <img src="dina_view_4.jpg" alt="dinamo app" width="180"/></p>
 
