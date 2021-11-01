@@ -42,7 +42,7 @@
 
 <h4>Finalist with the <a href="https://github.com/Keelhaul-Labs-Team/light-curve-app" target="_blank">Light Curve Predictor project</a> on</h4>
 
-  <a href="https://2021.spaceappschallenge.org/challenges/statements/when-light-curves-throw-us-curve-balls/teams/keelhaul-labs/project" target="_blank">  <img src="space_apps.png" alt="drawing" width="220"/></a>
+  <a href="https://2021.spaceappschallenge.org/challenges/statements/when-light-curves-throw-us-curve-balls/teams/keelhaul-labs/project" target="blank">  <img src="space_apps.png" alt="drawing" width="220"/></a>
 
 <p  align="left"><img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_1.jpg" alt="drawing" width="180"/> <img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_2.jpg" alt="drawing" width="180"/></p>
 
