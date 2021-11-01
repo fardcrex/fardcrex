@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fardcrex" target="blank"><img src="https://img.shields.io/twitter/follow/fardcrex?logo=twitter&style=for-the-badge" alt="fardcrex" /></a> </p>
 
-- 🔭 I’m currently working on my project [Dinamo](https://dinamo.app/)
+- 🔭 I’m currently working on my project [Dinamo](https://dinamo.dre.agchosting.link/#/)
 
 - 🌱 I’m currently learning **web 3.0**
 
@@ -27,16 +27,22 @@
 
 <h2>My Projects</h2>
 
-<h4>Finalist with the <a href="https://github.com/Keelhaul-Labs-Team/light-curve-app" target="_blank">Light Curve Predictor project</a> on</h4>
+<h4>Development of a simple crypto app <a href="https://github.com/fardcrex/nuwecoin" target="_blank">Light Curve Predictor project</a> on</h4>
 
-<img src="space_apps.png" alt="drawing" width="220"/>
+<a href="https://appgallery.huawei.com/app/C104634907" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
 
-<p  align="left"><img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_1.jpg" alt="drawing" width="180"/> <img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_2.jpg" alt="drawing" width="180"/></p>
-
+<p  align="left"><img src="dina_view_1.jpg" alt="dinamo app" width="180"/><img src="dina_view_2.jpg" alt="dinamo app" width="180"/> <img src="dina_view_3.jpg" alt="dinamo app" width="180"/> <img src="dina_view_4.jpg" alt="dinamo app" width="180"/></p>
 
 <h4>Development of a simple crypto app <a href="https://github.com/fardcrex/nuwecoin" target="_blank">Light Curve Predictor project</a> on</h4>
 
 <a href="https://appgallery.huawei.com/app/C104634907" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
 
 <p  align="left"><img src="coin_view_1.jpg" alt="nuwe_coin" width="180"/><img src="coin_view_2.jpg" alt="nuwe_coin" width="180"/> <img src="coin_view_3.jpg" alt="nuwe_coin" width="180"/></p>
+
+
+<h4>Finalist with the <a href="https://github.com/Keelhaul-Labs-Team/light-curve-app" target="_blank">Light Curve Predictor project</a> on</h4>
+
+<img src="space_apps.png" alt="drawing" width="220"/>
+
+<p  align="left"><img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_1.jpg" alt="drawing" width="180"/> <img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_2.jpg" alt="drawing" width="180"/></p>
 
