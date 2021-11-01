@@ -38,6 +38,5 @@
 
 <a href="https://appgallery.huawei.com/app/C104634907" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="220"/></a>
 
-<p  align="left"><img src=https://appimg2.dbankcdn.com/application/screenshut3/10119/35e0211ebcc445dabf329ab5012a0b2f.jpg" alt="nuwe_coin" width="180"/> <img src="https://appimg2.dbankcdn.com/application/screenshut2/10119/35e0211ebcc445dabf329ab5012a0b2f.jpg" alt="nuwe_coin" width="180"/>
-   <img src="https://appimg2.dbankcdn.com/application/screenshut1/10119/35e0211ebcc445dabf329ab5012a0b2f.jpg" alt="nuwe_coin" width="180"/></p>
+<p  align="left"><img src="coin_view_1.jpg" alt="nuwe_coin" width="180"/> align="left"><img src="https://appimg2.dbankcdn.com/application/screenshut3/10119/35e0211ebcc445dabf329ab5012a0b2f.jpg" alt="nuwe_coin" width="180"/> <img src="https://appimg2.dbankcdn.com/application/screenshut2/10119/35e0211ebcc445dabf329ab5012a0b2f.jpg" alt="nuwe_coin" width="180"/></p>
 
