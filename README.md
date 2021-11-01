@@ -34,4 +34,10 @@
 <p  align="left"><img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_1.jpg" alt="drawing" width="180"/> <img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_2.jpg" alt="drawing" width="180"/></p>
 
 
+<h4>Development of a simple crypto app <a href="https://github.com/fardcrex/nuwecoin" target="_blank">Light Curve Predictor project</a> on</h4>
+
+<a href="https://appgallery.huawei.com/app/C104634907" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="220"/></a>
+
+<p  align="left"><img src=https://appimg2.dbankcdn.com/application/screenshut3/10119/35e0211ebcc445dabf329ab5012a0b2f.jpg" alt="nuwe_coin" width="180"/> <img src="https://appimg2.dbankcdn.com/application/screenshut2/10119/35e0211ebcc445dabf329ab5012a0b2f.jpg" alt="nuwe_coin" width="180"/>
+   <img src="https://appimg2.dbankcdn.com/application/screenshut1/10119/35e0211ebcc445dabf329ab5012a0b2f.jpg" alt="nuwe_coin" width="180"/></p>
 
