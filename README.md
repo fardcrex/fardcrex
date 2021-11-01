@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fardcrex" target="blank"><img src="https://img.shields.io/twitter/follow/fardcrex?logo=twitter&style=for-the-badge" alt="fardcrex" /></a> </p>
 
-- 🔭 I’m currently working on my project [Dinamo](dinamo.app)
+- 🔭 I’m currently working on my project [Dinamo](https://dinamo.app/)
 
 - 🌱 I’m currently learning **web 3.0**
 
