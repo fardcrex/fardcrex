@@ -28,7 +28,7 @@
 
 <h2>My Projects</h2>
 
-<h4>Development of Dinamo app y finalist on <a href="https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/101618451100197545?pageIndex=5&regionId=Latin%20America"> Huawei HMS App Innovation Contest </a> </h4>
+<h4>Development of Dinamo app on hackaton <a href="https://cursokotlin.com/hackathon-aristicomp/"> AristiComp! </a> </h4>
 
 <a href="https://appgallery.huawei.com/app/C104640557" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
 
