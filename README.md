@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jair Pool Conislla Bocangel</h1>
-<h3 align="center">A passionate multiplatform developer from Perú</h3>
+<h3 align="center">A passionate multiplatform developer from Perú +3 years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardcrex&label=Profile%20views&color=0e75b6&style=flat" alt="fardcrex" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **web 3.0**
 
-- 👯 I’m looking to collaborate on **Blockchain** or **Flutter projects**
+- 👯 I’m looking to collaborate on **Flutter projects** or **Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
