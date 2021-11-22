@@ -31,9 +31,11 @@
 <h4>Development of Dinamo app on hackaton </h4>
 <h4>Landing del proyecto <a href="https://dinamo.app/"> Dinamo.app </a> </h4>
 
+<a href="https://appgallery.huawei.com/app/C104640557" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
+
 <p  align="left"><img src="dina_view_1.jpg" alt="dinamo app" width="180"/><img src="dina_view_2.jpg" alt="dinamo app" width="180"/> <img src="dina_view_3.jpg" alt="dinamo app" width="180"/> <img src="dina_view_4.jpg" alt="dinamo app" width="180"/></p>
 
-<h4>Development of a simple crypto app <a href="https://github.com/fardcrex/nuwecoin" target="_blank">Nuwe Coin</a> on</h4>
+<h5><a href="https://nuwe-coin.netlify.app/#/" target="_blank">Versión Web</a> on</h5>
 
 <a href="https://appgallery.huawei.com/app/C104634907" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
 
