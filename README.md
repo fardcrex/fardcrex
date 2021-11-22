@@ -31,7 +31,10 @@
 <h4>Development of Dinamo app as Startup </h4>
 <h4>Landing del proyecto <a href="https://dinamo.app/"> Dinamo.app </a> </h4>
 
-<a href="https://appgallery.huawei.com/app/C104640557" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
+<p  align="left"><a href="https://appgallery.huawei.com/app/C104640557" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a><a href="https://play.google.com/store/apps/details?id=app.dinamo.dinamo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="drawing" width="180"/></a></p>
+
+
+
 
 <p  align="left"><img src="dina_view_1.jpg" alt="dinamo app" width="180"/><img src="dina_view_2.jpg" alt="dinamo app" width="180"/> <img src="dina_view_3.jpg" alt="dinamo app" width="180"/> <img src="dina_view_4.jpg" alt="dinamo app" width="180"/></p>
 
