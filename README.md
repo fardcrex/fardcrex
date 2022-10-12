@@ -53,7 +53,7 @@
 
 
 
-<p  align="left"><img src="pedido_listo_app_view.png" alt="pedido listo app" width="180"/><img src="pedido_listo_back_oficce_view.png" alt="pedido listo back office" width="600"/> 
+<p  align="left"><img src="pedido_listo_app_view.png" alt="pedido listo app" width="180"/><p> </p><img src="pedido_listo_back_oficce_view.png" alt="pedido listo back office" width="600"/> 
 
 
 <h4> - Finalist with the <a href="https://github.com/Keelhaul-Labs-Team/light-curve-app" target="_blank">Light Curve Predictor project</a> on</h4>
