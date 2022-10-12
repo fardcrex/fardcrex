@@ -49,7 +49,7 @@
 <p  align="left"><img src="coin_view_1.jpg" alt="nuwe_coin" width="180"/><img src="coin_view_2.jpg" alt="nuwe_coin" width="180"/> <img src="coin_view_3.jpg" alt="nuwe_coin" width="180"/></p>
 
 <h4> - Development of an ordering system for restaurants with Flutter Web</h4>
-<h5><a href="" target="_blank">Pedido Listo (muy pronto)</a></h5>
+<h5><a href="" target="_blank">Pedido Listo</a></h5>
 
 
 
