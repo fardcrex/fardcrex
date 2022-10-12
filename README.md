@@ -30,7 +30,7 @@
 
 <h2>My Projects</h2>
 
-<h4>Development of Dinamo app as Startup </h4>
+<h4> - Development of Dinamo app as Startup </h4>
 <h4>Landing del proyecto <a href="https://dinamo.dra.agchosting.link/"> Dinamo.app </a> </h4>
 <h4>Video de presentación <a href="https://firebasestorage.googleapis.com/v0/b/dinamo-landing.appspot.com/o/dinamo_presentacion.MP4?alt=media"> visualizar </a> </h4>
 
@@ -41,21 +41,28 @@
 
 <p  align="left"><img src="dina_view_1.jpg" alt="dinamo app" width="180"/><img src="dina_view_2.jpg" alt="dinamo app" width="180"/> <img src="dina_view_3.jpg" alt="dinamo app" width="180"/> <img src="dina_view_4.jpg" alt="dinamo app" width="180"/></p>
 
-<h4>Development of a simple crypto app <a href="https://github.com/fardcrex/nuwecoin" target="_blank">Nuwe Coin</a> on</h4>
+<h4> - Development of a simple crypto app <a href="https://github.com/fardcrex/nuwecoin" target="_blank">Nuwe Coin</a> on</h4>
 <h5><a href="https://nuwe-coin.netlify.app/#/" target="_blank">Versión Web</a></h5>
 
 <a href="https://appgallery.huawei.com/app/C104634907" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a>
 
 <p  align="left"><img src="coin_view_1.jpg" alt="nuwe_coin" width="180"/><img src="coin_view_2.jpg" alt="nuwe_coin" width="180"/> <img src="coin_view_3.jpg" alt="nuwe_coin" width="180"/></p>
 
+<h4> - Development of an ordering system for restaurants with Flutter Web</h4>
+<h5><a href="" target="_blank">Pedido Listo (muy pronto)</a></h5>
 
-<h4>Finalist with the <a href="https://github.com/Keelhaul-Labs-Team/light-curve-app" target="_blank">Light Curve Predictor project</a> on</h4>
+
+
+<p  align="left"><img src="pedido_listo_app_view.png" alt="pedido listo app" width="180"/><img src="pedido_listo_back_oficce_view.png" alt="pedido listo back office" width="600"/> 
+
+
+<h4> - Finalist with the <a href="https://github.com/Keelhaul-Labs-Team/light-curve-app" target="_blank">Light Curve Predictor project</a> on</h4>
 
   <a href="https://2021.spaceappschallenge.org/challenges/statements/when-light-curves-throw-us-curve-balls/teams/keelhaul-labs/project" target="blank">  <img src="space_apps.png" alt="drawing" width="220"/></a>
 
 <p  align="left"><img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_1.jpg" alt="drawing" width="180"/> <img src="https://github.com/Keelhaul-Labs-Team/light-curve-app/raw/main/assets/capture_2.jpg" alt="drawing" width="180"/></p>
 
-<h4>Development of a simple frontend-movil system with firebase <a href="https://rent-bike-system.web.app/" target="_blank"> renta de bicicletas</a> </h4>
+<h4> - Development of a simple frontend-movil system with firebase <a href="https://rent-bike-system.web.app/" target="_blank"> renta de bicicletas</a> </h4>
    <img src="landing.png" alt="drawing" width="800"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardcrex&show_icons=true&locale=en" alt="fardcrex" /></p>
