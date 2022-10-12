@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fardcrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fardcrex" height="30" width="40" /></a>
-  <a href="CV_Conislla_2022[293].pdf" target="blank"><h2> Curriculum Vitae</h2></a>
+  <a href="https://github.com/fardcrex/fardcrex/blob/main/CV_Jair_Conislla_2022_flutter.pdf" target="blank"><h2> Curriculum Vitae</h2></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,9 +29,9 @@
 <h2>My Projects</h2>
 
 <h4>Development of Dinamo app as Startup </h4>
-<h4>Landing del proyecto <a href="https://dinamo.app/"> Dinamo.app </a> </h4>
+<h4>Landing del proyecto <a href="https://dinamo.dra.agchosting.link/"> Dinamo.app </a> </h4>
 
-<p  align="left"><a href="https://appgallery.huawei.com/app/C104640557" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a><a href="https://play.google.com/store/apps/details?id=app.dinamo.dinamo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="drawing" width="180"/></a></p>
+<p  align="left"><a href="https://appgallery.huawei.com/app/C107163207" target="_blank"><img src="https://learnmatch.net/wp-content/uploads/2020/10/huawei-appgallery.png" alt="drawing" width="180"/></a><a href="https://play.google.com/store/apps/details?id=app.dinamo.dinamo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="drawing" width="180"/></a></p>
 
 
 
