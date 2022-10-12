@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fardcrex" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fardcrex" height="30" width="40" /></a>
-<a href="CV_Jair_Conislla_2022_flutter.pdf" target="_blank"><p> Curriculum Vitae</p>
+<a href="https://twitter.com/fardcrex" target="_blank"><p> Curriculum Vitae</p>
   </a>
 </p>
 
