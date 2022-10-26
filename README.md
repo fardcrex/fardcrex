@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/fardcrex" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fardcrex" height="30" width="40" /></a>
 
-<a href="https://github.com/fardcrex/fardcrex/blob/main/CV_Jair_Conislla_2022_flutter.pdf" target="_blank">Curriculum Vitae </a>
   
 </p>
 
@@ -61,7 +60,7 @@
 <p  align="left"><img src="coin_view_1.jpg" alt="nuwe_coin" width="180"/><img src="coin_view_2.jpg" alt="nuwe_coin" width="180"/> <img src="coin_view_3.jpg" alt="nuwe_coin" width="180"/></p>
 
 <h4> - Development of an ordering system for restaurants with Flutter Web</h4>
-<h5><a href="" target="_blank">Pedido Listo</a></h5>
+<h5><a href="https://dev-pedidolisto.web.app/" target="_blank">Pedido Listo</a></h5>
 
 
 
