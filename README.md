@@ -49,6 +49,13 @@
 
 
 <h2>My Projects</h2>
+<h4> - Development of an ordering system for restaurants with Flutter Web</h4>
+<h5><a href="https://lojusto.pedidolisto.com/" target="_blank">Pedido Listo</a></h5>
+<h5><a href="https://pedidolisto.com/" target="_blank">Pedido Listo Back Office</a></h5>
+
+
+<p  align="left"><img src="pedido_listo_app_view.png" alt="pedido listo app" width="180"/><a> </a><img src="pedido_listo_back_oficce_view.png" alt="pedido listo back office" width="600"/> 
+
 
 <h4> - Development of Dinamo app as Startup </h4>
 <h4>Landing del proyecto <a href="https://dinamo.dra.agchosting.link/"> Dinamo.app </a> </h4>
@@ -68,12 +75,6 @@
 
 <p  align="left"><img src="coin_view_1.jpg" alt="nuwe_coin" width="180"/><img src="coin_view_2.jpg" alt="nuwe_coin" width="180"/> <img src="coin_view_3.jpg" alt="nuwe_coin" width="180"/></p>
 
-<h4> - Development of an ordering system for restaurants with Flutter Web</h4>
-<h5><a href="https://dev-pedidolisto.web.app/" target="_blank">Pedido Listo</a></h5>
-
-
-
-<p  align="left"><img src="pedido_listo_app_view.png" alt="pedido listo app" width="180"/><a> </a><img src="pedido_listo_back_oficce_view.png" alt="pedido listo back office" width="600"/> 
 
 
 <h4> - Finalist with the <a href="https://github.com/Keelhaul-Labs-Team/light-curve-app" target="_blank">Light Curve Predictor project</a> on</h4>
