@@ -29,6 +29,15 @@
 
 <h2>Where I worked</h2>
 
+<h3> - Mi Upc </h3>
+<p  align="left"><a href="https://play.google.com/store/search?q=tr4iner&c=apps](https://play.google.com/store/apps/details?id=com.upc.superapp&hl=es_419&gl=US" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="drawing" width="180"/></a></p>
+<img src="upc_view_1.png" alt="drawing" width="700"/>
+
+<h3> - Qeto </h3>
+<p  align="left"><a href="https://play.google.com/store/apps/details?id=com.apayqhatu.qeto&hl=es_PE&gl=US" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="drawing" width="180"/></a></p>
+<img src="qeto_view_1.png" alt="drawing" width="700"/>
+
+
 <h3> - Tr4iner </h3>
 <p  align="left"><a href="https://play.google.com/store/search?q=tr4iner&c=apps" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="drawing" width="180"/></a></p>
 <img src="tr4iner_view.png" alt="drawing" width="700"/>
